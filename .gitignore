@@ -1,0 +1,9 @@
+doc/
+*~
+*.pyc
+*.avi
+*.RData
+*Rhistory
+data/
+images/
+training/
