@@ -1,4 +1,4 @@
-##Using machine learning on the output of an online community to try to predict the most productive users, and those that help others be productive
+## Using machine learning on the output of an online community to try to predict the most productive users, and those that help others be productive
 
 In any collaborative setting, some people are more or less productive, and others facilitate (or degrade) the social environment. Using a large set of data, scraped from a community website:
 

@@ -1,6 +1,6 @@
 # All the code necessary to do the scraping, and subsequent data analysis is here, in two jupyter notebooks.
 
-Requires: python2, pandas, numpy, scikit learn, urllib2, BeautifulSoup
+Requires (python2): pandas, numpy, scikit learn, urllib2, BeautifulSoup
 
 
 ## ```online_social_function.ipynb```
@@ -11,4 +11,4 @@ Requires: python2, pandas, numpy, scikit learn, urllib2, BeautifulSoup
 ## ```analyse_and_graph.ipynb```
 
 * ```G2GDat``` is the class object that loads saved data, and processes it into a pandas dataframe for subsequent analysis.
-* Several predictive pipelines are implented
+* Several predictive pipelines are implemented
