@@ -1,3 +1,5 @@
+![](slide_1.png)
+
 ## Using machine learning on the output of an online community to try to predict the most productive users, and those that help others be productive
 
 In any collaborative setting, some people are more or less productive, and others facilitate (or degrade) the social environment. Using a large set of data, scraped from a community website:
@@ -5,8 +7,6 @@ In any collaborative setting, some people are more or less productive, and other
 * Developed 14 metrics of positive sociability, and productivity.
 * Trained machine learning pipelines to predict future users' sociability and productivity scores with scores of __0.593__ and __0.835__ respectively.
 * This will help to automatically recognize 'community stars' with new members, or flag emerging problems for intervention.
-
-![](slide_1.png)
 
 ___Goal: to understand how users of an online community interact, and the degree to which interaction styles affect positivity and productivity___
 
